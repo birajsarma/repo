@@ -1,1 +1,30 @@
-change
+Today we will learn
+———————————
+
+1. How to install Git on windows
+2. Adding project/files to git for tracking
+3. Git commands
+4. Pushing project to remote repository(github)
+_______________________________
+
+Step 1 : check if git is already installed git --version
+
+Step 2 : download and install git
+
+Step 3 : add your project to git
+
+Step 4 : commands 
+
+git config --global user.email "birajsarma@email.com"
+git config --global user.name "birajsarma"
+
+- git init
+- git status
+- git add
+- git commit -m “…..”
+- git remote add origin https://github.com/birajsarma/repo.git
+- git push -u origin master
+- git log
+- git —help
+
+Step 5 : adding project to remote repository (github)
