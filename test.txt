@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 5CBB-474B
-
- Directory of C:\Users\Biraj\Desktop\MyGitProject
-
-26-06-2017  09:54    <DIR>          .
-26-06-2017  09:54    <DIR>          ..
-26-06-2017  09:54                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  124,148,019,200 bytes free
+change
